@@ -24,8 +24,9 @@
 	font-weight: 800;
 	text-align: center;
 	background-color: #ccc;
-	height: 130px;
-	margin-top: 20px;
+	height: 140px;
+	margin-top: 60px;
+	font-size: 30px;
 }
 
 #ultimaSenhaTexto{
@@ -34,7 +35,7 @@
 }
 
 #ultimaSenhaNumero{
-	font-size: 40px;
+	font-size: 60px;
 	color: black;
 }
 
@@ -53,7 +54,7 @@
 }
 
 .subtitulo{
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 400;
 }
 
